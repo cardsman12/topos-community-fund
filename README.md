@@ -36,7 +36,7 @@ Our goal is to foster a vibrant and innovative community by empowering project o
 - **Mar 8**: Live pitches on Discord.
 - **Mar 8-11**: Community vote.
 - **Mar 12-**: Payout upon completion of milestones.
-
+excelent
 ## 📋 How to apply
 
 >[!IMPORTANT]
